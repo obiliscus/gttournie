@@ -1,0 +1,49 @@
+[
+  {
+    "id": "driver-1",
+    "name": "Driver 1",
+    "team": "team-a",
+    "photo": "driver1.png",
+    "bio": "Driver 1 is a veteran known for consistency and on-track awareness.",
+    "stats": {
+      "wins": 3,
+      "podiums": 8
+    }
+  },
+
+  {
+    "id": "driver-2",
+    "name": "Driver 2",
+    "team": "team-a",
+    "photo": "driver2.png",
+    "bio": "Driver 2 is a young rising star with aggressive racecraft.",
+    "stats": {
+      "wins": 1,
+      "podiums": 4
+    }
+  },
+
+  {
+    "id": "driver-3",
+    "name": "Driver 3",
+    "team": "team-b",
+    "photo": "driver3.png",
+    "bio": "Driver 3 is known for qualifying speed and technical precision.",
+    "stats": {
+      "wins": 2,
+      "podiums": 7
+    }
+  },
+
+  {
+    "id": "driver-4",
+    "name": "Driver 4",
+    "team": "team-c",
+    "photo": "driver4.png",
+    "bio": "Driver 4 is a rookie with impressive improvement each round.",
+    "stats": {
+      "wins": 0,
+      "podiums": 1
+    }
+  }
+]
