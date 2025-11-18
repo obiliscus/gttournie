@@ -1,0 +1,23 @@
+[
+  {
+    "id": "team-a",
+    "name": "Team A",
+    "logo": "team_a.png",
+    "drivers": ["driver-1", "driver-2"],
+    "bio": "Team A is a competitive force known for its consistent performance and strong driver lineup."
+  },
+  {
+    "id": "team-b",
+    "name": "Team B",
+    "logo": "team_b.png",
+    "drivers": ["driver-3"],
+    "bio": "Team B focuses on technical innovation and strategic racing."
+  },
+  {
+    "id": "team-c",
+    "name": "Team C",
+    "logo": "team_c.png",
+    "drivers": ["driver-4"],
+    "bio": "Team C is a newcomer to the series with rapidly improving results."
+  }
+]
