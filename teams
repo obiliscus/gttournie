@@ -1,1 +1,10 @@
+[
+  {
+    "id": "team-a",
+    "name": "Team A",
+    "logo": "team_a.png",
+    "drivers": ["driver-1", "driver-2"],
+    "bio": "A short description of Team A."
+  }
+]
 
