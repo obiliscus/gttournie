@@ -1,1 +1,14 @@
+[
+  {
+    "id": "driver-1",
+    "name": "Driver 1",
+    "team": "team-a",
+    "photo": "driver1.png",
+    "bio": "Short biography for Driver 1",
+    "stats": {
+      "wins": 5,
+      "podiums": 12
+    }
+  }
+]
 
