@@ -1,0 +1,31 @@
+{
+  "2025": [
+    {
+      "round": 1,
+      "event": "Season Opener",
+      "date": "2025-03-12",
+      "winner": "Driver 3"
+    },
+    {
+      "round": 2,
+      "event": "Desert GP",
+      "date": "2025-03-19",
+      "winner": "Driver 6"
+    }
+  ],
+
+  "2024": [
+    {
+      "round": 1,
+      "event": "2024 Kickoff",
+      "date": "2024-03-10",
+      "winner": "Driver A"
+    },
+    {
+      "round": 2,
+      "event": "Spring GP",
+      "date": "2024-03-18",
+      "winner": "Driver C"
+    }
+  ]
+}
