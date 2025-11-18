@@ -1,1 +1,10 @@
+{
+  "2025": [
+    { "position": 1, "team": "Team A", "points": 120 },
+    { "position": 2, "team": "Team B", "points": 108 }
+  ],
+  "2024": [
+    { "position": 1, "team": "Team X", "points": 145 }
+  ]
+}
 
